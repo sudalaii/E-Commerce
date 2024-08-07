@@ -122,7 +122,7 @@ function Addtocart() {
                             <img
                                 src={`http://localhost:3001/resources/uploads/${item.Image}`}
                                 alt={item.productname}
-                                style={{ width: "100px", height: "100px", objectFit: "cover", marginRight: "20px", borderRadius: "10px" }}
+                                style={{ width: "300px", height: "300px", objectFit: "cover", marginRight: "20px", borderRadius: "10px" }}
                             />
                             <div>
                                 <p>Brand: {item.productbrand}</p>
