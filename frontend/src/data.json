@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "img": "./images/logo5.webp",
+        "brandname": "watch",
+        "price": "1200",
+        "offer": "1100",
+        "discount": "60%"
+    },
+    {
+        "id": 2,
+        "img": "./images/logo5.webp",
+        "brandname": "watch2",
+        "price": "1000",
+        "offer": "800",
+        "discount": "50%"
+    },
+    {
+        "id": 3,
+        "img": "./images/logo5.webp",
+        "brandname": "watch3",
+        "price": "600",
+        "offer": "400",
+        "discount": "80%"
+    },
+    {
+        "id": 4,
+        "img": "./images/logo5.webp",
+        "brandname": "watch4",
+        "price": "500",
+        "offer": "300",
+        "discount": "90%"
+    }
+]
