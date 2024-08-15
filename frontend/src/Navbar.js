@@ -23,7 +23,7 @@ function NavBar() {
 
       // Clear session storage or other authentication states
       sessionStorage.removeItem("isUserLogged");
-      // localStorage.clear();
+      localStorage.clear();
       // Adjust if needed
 
       // Redirect to the homepage or login page after logout
